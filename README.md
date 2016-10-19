@@ -1,6 +1,6 @@
-# Increase Youtube Views Tips (Updated in 2016.10.19)
+# Increase Youtube Views Tips 
 
-Although no one actually knows how Youtube’s view count system works, these are just some recommendation from some of other fandom used. 
+Although no one actually knows how Youtube’s view count system works, these are just some recommendation from some of other fandom used. Btw, don't need to worry if you find out the views don't increase immediately. Since the views updated once an hour, I write a crontab to run the script and log into views.csv 
 
 MV List
 --- 
@@ -21,3 +21,5 @@ Tips
 10. (Optional, seldom view this point) Play the list without login. All the view from same person will be counted into one
 11. (Optional, seldom view this point) Don't block the Ad
 12. (Optional, seldom view this point) If possible, change your IP periodically
+
+
